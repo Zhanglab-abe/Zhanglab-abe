@@ -1,6 +1,6 @@
 # Sensing and Automation in Agro-System (SAAS) Lab
 
-# Lab Introduction
+## Lab Introduction
 
 Sensing and Automation in Agro-System (SAAS) Lab attched to Department of Agricultural & Biological Engineering, Mississippi State University working in different technologies to improve the agriculture sectors. 
 
