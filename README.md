@@ -24,7 +24,7 @@ Assistant Professor
 FAA Certified sUAS Remote Pilot
 Email: xzhang@abe.msstate.edu 
 <p align="left">
-<a href="https://sites.google.com/view/xin-zhang-lab/home?authuser=0" target="blank"><img align="center" src="https://lh3.googleusercontent.com/3C9WJeCFiff6tdWF6zX8MQArY1Ki71jxWl0iNFDoTo48eMWocy-k51i2RA6d4ge-ri9PPYqGr4gFPDEd2ZldZUs=w16383" alt="SAAS" height="40" width="40" /></a>
+<a href="https://sites.google.com/view/xin-zhang-lab/home?authuser=0" target="blank"><img align="center" src="https://lh4.googleusercontent.com/ZQVAF9twN_x6Un64JUav4r2BiCsRrd6IW5w3mlMu2UExiOzqTKhGBiCTFh8OCKbcXLvyG2jIkx9gJTAFum41KBI=w16383" alt="SAAS" height="40" width="100" /></a>
 </p>
 
 
