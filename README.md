@@ -1,4 +1,4 @@
-# Sensing and Automation in Agro-System (SAAS) Lab [website]
+# [Sensing and Automation in Agro-System (SAAS) Lab] [website]
 
 ## Lab Introduction
 
