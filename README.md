@@ -19,7 +19,7 @@
 * 🍃 Smart Agriculture
 
 ## PI:
-Dr. Xin Zhang (xzhang@abe.msstate.edu)
+Dr. Xin Zhang
 
 Assistant Professor
 
