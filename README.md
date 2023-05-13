@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Zhanglab-abe/Zhanglab-abe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lab Introduction
+Department of Agricultural & Biological Engineering, Mississippi State University
 
-Here are some ideas to get you started:
+Assistant Professor: Dr. Xin Zhang (xzhang@abe.msstate.edu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Research Focus
+
+🦾 Agricultural Robotics
+
+📸 Computer Vision
+
+🤖 Artificial Intelligence (AI) in Agriculture
+
+💻 Machine/Deep Learning
+
+🛰 Unmanned Aerial System (UAS)/Remote Sensing
+
+⛏ Data Science/Feature Engineering
+
+🍃 Smart Agriculture
