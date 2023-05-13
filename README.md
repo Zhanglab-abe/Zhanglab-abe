@@ -1,5 +1,4 @@
-# [Sensing and Automation in Agro-System (SAAS) Lab] (https://sites.google.com/view/xin-zhang-lab/home?authuser=0)
-
+# [Sensing and Automation in Agro-System (SAAS)](https://sites.google.com/view/xin-zhang-lab/home?authuser=0)
 ## Lab Introduction
 
 Sensing and Automation in Agro-System (SAAS) [website] Lab attched to Department of Agricultural & Biological Engineering, Mississippi State University working in different technologies to improve the agriculture sectors. 
