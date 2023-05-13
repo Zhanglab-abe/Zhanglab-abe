@@ -1,4 +1,4 @@
-# [Sensing and Automation in Agro-System (SAAS) Lab] [website]
+# [Sensing and Automation in Agro-System (SAAS) Lab] (https://sites.google.com/view/xin-zhang-lab/home?authuser=0)
 
 ## Lab Introduction
 
