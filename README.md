@@ -9,8 +9,7 @@
 * ⛏ Data Science/Feature Engineering
 * 🍃 Smart Agriculture
 
-## Lab PI
+**Lab PI**
 * Dr. Xin Zhang
 * Assistant Professor
 * Email: xzhang@abe.msstate.edu
-* [website]: https://sites.google.com/view/xin-zhang-lab/home
