@@ -1,4 +1,7 @@
 # [Sensing and Automation in Agri-System (SAAS) Lab](https://sites.google.com/view/xin-zhang-lab/home)
+**Lab Affiliation**
+* Department of Agricultural & Biological Engineering
+* Mississippi State University
 
 **Lab Research Focus**
 * 🦾 Agricultural Robotics
