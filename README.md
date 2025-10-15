@@ -1,7 +1,8 @@
 # [Sensing and Automation in Agri-System (SAAS) Lab](https://sites.google.com/view/xin-zhang-lab/home)
 **Lab Affiliation**
-* Department of Agricultural & Biological Engineering
-* Mississippi State University
+* [School of Environmental, Civil, Agricultural, and Mechanical Engineering](https://engineering.uga.edu/schools/ecam/)
+* [College of Engineering](https://engineering.uga.edu/)
+* [University of Georgia](https://www.uga.edu/)
 
 **Lab Research Focus**
 * 🦾 Agricultural Robotics
@@ -15,4 +16,4 @@
 **Lab PI**
 * Dr. Xin Zhang
 * Assistant Professor
-* Email: xzhang@abe.msstate.edu
+* Email: Xin.Zhang2@uga.edu
